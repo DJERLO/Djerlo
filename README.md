@@ -1,9 +1,17 @@
-<h1 align="center">Hi, I'm Djerlo</h1>
+<h1 align="center">
+      <b>Hi, I'm Djerlo</b>
+      <p align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;C%2B%2B+%7C+Python+%7C+Django;IT+Support+%26+Backend+Developer;Always+Learning+New+Things" />
+      </p>
+      <p align="center">
+        <a href="mailto:jerlodeleon@yahoo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+        <a href="https://www.linkedin.com/in/jerlo-de-leon" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+        <a href="https://t.me/@CresentXR" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
+        <a href="https://discord.com/users/1273213785087152170" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
+      </p>
+</h1>
+  
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;C%2B%2B+%7C+Python+%7C+Django;IT+Support+%26+Network+Enthusiast;Always+Learning+New+Things" />
-</h3>
-</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20Systems-blue?style=flat-square" />
